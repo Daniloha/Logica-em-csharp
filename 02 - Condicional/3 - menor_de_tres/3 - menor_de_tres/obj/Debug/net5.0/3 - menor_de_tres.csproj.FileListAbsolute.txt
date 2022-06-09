@@ -1,0 +1,16 @@
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.exe
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.deps.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.runtimeconfig.dev.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\ref\3 - menor_de_tres.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\bin\Debug\net5.0\3 - menor_de_tres.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.csprojAssemblyReference.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\ref\3 - menor_de_tres.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\3 - menor_de_tres\3 - menor_de_tres\obj\Debug\net5.0\3 - menor_de_tres.genruntimeconfig.cache

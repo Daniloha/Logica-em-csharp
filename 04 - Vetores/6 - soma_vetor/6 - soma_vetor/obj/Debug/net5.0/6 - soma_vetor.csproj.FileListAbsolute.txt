@@ -1,0 +1,16 @@
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.exe
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.deps.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.runtimeconfig.dev.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\ref\6 - soma_vetor.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\bin\Debug\net5.0\6 - soma_vetor.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.csprojAssemblyReference.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\ref\6 - soma_vetor.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - soma_vetor\6 - soma_vetor\obj\Debug\net5.0\6 - soma_vetor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.exe
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.deps.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.runtimeconfig.dev.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\ref\5 - soma_impares.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\bin\Debug\net5.0\5 - soma_impares.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.csprojAssemblyReference.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\ref\5 - soma_impares.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\5 - soma_impares\5 - soma_impares\obj\Debug\net5.0\5 - soma_impares.genruntimeconfig.cache

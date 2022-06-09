@@ -1,0 +1,16 @@
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.exe
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.deps.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.runtimeconfig.dev.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\ref\7 - diagonal_negativos.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\bin\Debug\net5.0\7 - diagonal_negativos.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.csprojAssemblyReference.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\ref\7 - diagonal_negativos.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\7 - diagonal_negativos\7 - diagonal_negativos\obj\Debug\net5.0\7 - diagonal_negativos.genruntimeconfig.cache

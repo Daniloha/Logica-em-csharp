@@ -1,0 +1,15 @@
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.exe
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.deps.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.runtimeconfig.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.runtimeconfig.dev.json
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\ref\4 - crescente.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\bin\Debug\net5.0\4 - crescente.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.AssemblyInfoInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.AssemblyInfo.cs
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\ref\4 - crescente.dll
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.pdb
+C:\Users\nilo_\OneDrive\Documents\MEGA\DANILO\CURSOS\Cursos UDM\Lógica de Programação\C#\4 - crescente\4 - crescente\obj\Debug\net5.0\4 - crescente.genruntimeconfig.cache

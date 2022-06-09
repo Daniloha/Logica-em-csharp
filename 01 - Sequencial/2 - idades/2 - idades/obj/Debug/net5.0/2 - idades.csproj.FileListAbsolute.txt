@@ -1,0 +1,16 @@
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.exe
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.deps.json
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.runtimeconfig.json
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.runtimeconfig.dev.json
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.dll
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\ref\2 - idades.dll
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\bin\Debug\net5.0\2 - idades.pdb
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.csprojAssemblyReference.cache
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.AssemblyInfoInputs.cache
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.AssemblyInfo.cs
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.csproj.CoreCompileInputs.cache
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.dll
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\ref\2 - idades.dll
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.pdb
+C:\Users\nilo_\source\repos\2 - idades\2 - idades\obj\Debug\net5.0\2 - idades.genruntimeconfig.cache
