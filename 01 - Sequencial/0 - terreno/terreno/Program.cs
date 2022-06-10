@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-// See https://aka.ms/new-console-template for more information
+
 Console.Write("Digite a largura do terreno: ");
 double L = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 System.Console.Write("Digite o comprimento do terreno: ");
