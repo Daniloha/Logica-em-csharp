@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\bin\Debug\net6.0\8 - medidas.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\bin\Debug\net6.0\8 - medidas.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\bin\Debug\net6.0\8 - medidas.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\bin\Debug\net6.0\8 - medidas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\bin\Debug\net6.0\8 - medidas.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\refint\8 - medidas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\8 - medidas.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\8 - medidas\obj\Debug\net6.0\ref\8 - medidas.dll

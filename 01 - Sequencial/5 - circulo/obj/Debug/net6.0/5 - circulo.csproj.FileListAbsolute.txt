@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\bin\Debug\net6.0\5 - circulo.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\bin\Debug\net6.0\5 - circulo.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\bin\Debug\net6.0\5 - circulo.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\bin\Debug\net6.0\5 - circulo.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\bin\Debug\net6.0\5 - circulo.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\refint\5 - circulo.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\5 - circulo.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\5 - circulo\obj\Debug\net6.0\ref\5 - circulo.dll

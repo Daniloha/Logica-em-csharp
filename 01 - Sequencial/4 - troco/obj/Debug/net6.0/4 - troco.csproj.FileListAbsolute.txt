@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\bin\Debug\net6.0\4 - troco.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\bin\Debug\net6.0\4 - troco.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\bin\Debug\net6.0\4 - troco.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\bin\Debug\net6.0\4 - troco.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\bin\Debug\net6.0\4 - troco.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\refint\4 - troco.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\4 - troco.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\4 - troco\obj\Debug\net6.0\ref\4 - troco.dll

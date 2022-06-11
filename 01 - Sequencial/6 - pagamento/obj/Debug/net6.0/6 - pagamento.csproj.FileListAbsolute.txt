@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\bin\Debug\net6.0\6 - pagamento.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\bin\Debug\net6.0\6 - pagamento.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\bin\Debug\net6.0\6 - pagamento.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\bin\Debug\net6.0\6 - pagamento.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\bin\Debug\net6.0\6 - pagamento.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\refint\6 - pagamento.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\6 - pagamento.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\6 - pagamento\obj\Debug\net6.0\ref\6 - pagamento.dll

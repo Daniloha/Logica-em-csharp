@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\bin\Debug\net6.0\9 - duracao.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\bin\Debug\net6.0\9 - duracao.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\bin\Debug\net6.0\9 - duracao.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\bin\Debug\net6.0\9 - duracao.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\bin\Debug\net6.0\9 - duracao.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\refint\9 - duracao.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\9 - duracao.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\01 - Sequencial\9 - duracao\obj\Debug\net6.0\ref\9 - duracao.dll
