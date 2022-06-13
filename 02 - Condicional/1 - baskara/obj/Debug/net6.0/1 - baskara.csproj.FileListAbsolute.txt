@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\bin\Debug\net6.0\1 - baskara.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\bin\Debug\net6.0\1 - baskara.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\bin\Debug\net6.0\1 - baskara.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\bin\Debug\net6.0\1 - baskara.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\bin\Debug\net6.0\1 - baskara.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\refint\1 - baskara.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\1 - baskara.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\1 - baskara\obj\Debug\net6.0\ref\1 - baskara.dll

@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\bin\Debug\net6.0\0 - notas.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\bin\Debug\net6.0\0 - notas.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\bin\Debug\net6.0\0 - notas.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\bin\Debug\net6.0\0 - notas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\bin\Debug\net6.0\0 - notas.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\refint\0 - notas.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\0 - notas.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\02 - Condicional\0 - notas\obj\Debug\net6.0\ref\0 - notas.dll
