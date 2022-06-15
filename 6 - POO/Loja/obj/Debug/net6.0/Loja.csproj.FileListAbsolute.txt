@@ -1,0 +1,15 @@
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\bin\Debug\net6.0\Loja.exe
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\bin\Debug\net6.0\Loja.deps.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\bin\Debug\net6.0\Loja.runtimeconfig.json
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\bin\Debug\net6.0\Loja.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\bin\Debug\net6.0\Loja.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.csproj.AssemblyReference.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.AssemblyInfoInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.AssemblyInfo.cs
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.csproj.CoreCompileInputs.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\refint\Loja.dll
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.pdb
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\Loja.genruntimeconfig.cache
+E:\NUVENS\Mega\Meu MEGA\CURSOS\Cursos UDM\Lógica de Programação\C#\6 - POO\Loja\obj\Debug\net6.0\ref\Loja.dll
